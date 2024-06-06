@@ -187,8 +187,6 @@
           - inxi
           - meld
           - nano-syntax-highlighting
-          - neofetch
-          - pcurses
           - pv
           - python-defusedxml
           - rsync
